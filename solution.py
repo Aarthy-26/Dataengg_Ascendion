@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 # Load employee and attendance data
 def load_employees(file_path):
